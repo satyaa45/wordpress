@@ -1,0 +1,4 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://wordpress.com/log-in"
+}

@@ -1,0 +1,8 @@
+{
+    "UserName": "getLoginUser",
+    "Password": "P@ssword123",
+    "DisplayName": "username",
+    "Description": "An account to validate user profile",
+    "FirstName": "FirstName",
+    "LastName": "LastName"
+}
